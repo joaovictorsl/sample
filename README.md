@@ -39,6 +39,10 @@ Funções devem possuir exemplo de uso
 
 [Liste e descreva o que cada argumento faz e se ele é obrigatório ou não]
 
+## SAÍDA
+
+[Descreva qual é o resultado/saída da execução do script, caso seja um arquivo especifique onde esse arquivo é salvo e qual seu nome]
+
 ## EXEMPLOS
 
 [Liste exemplos sobre como utilizar seu script]
